@@ -1,0 +1,11 @@
+{
+  "name": "mescroll-uni",
+  "version": "1.3.7",
+  "description": "mescroll的uni-app版本:【wxs+renderjs实现】高性能的下拉刷新上拉加载组件",
+  "main": "mescroll-uni.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wenju",
+  "license": "MIT"
+}
